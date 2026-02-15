@@ -1,0 +1,12 @@
+sites:
+  - url: https://example.com
+    name: Example Site
+    enabled: true
+    
+  - url: https://stripe.com
+    name: Stripe
+    enabled: true
+    
+  - url: https://google.com
+    name: Google
+    enabled: true
