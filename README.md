@@ -23,14 +23,17 @@ UX-рецензент анализирует текстовое содержим
 ## 📸 Скриншоты
 
 ### Веб-интерфейс (Streamlit)
-<img src="screenshots/1-streamlit-interface.png" width="600">
-<img src="screenshots/2-streamlit-result.png" width="600">
+<img src="screenshots/screenshots1-streamlit-interface.png" width="600">
+<img src="screenshots/screenshots2-streamlit-result.png" width="600">
 
 ### CLI интерфейс
-<img src="screenshots/3-cli-analysis.png" width="600">
+<img src="screenshots/screenshots3-cli-analysis.png" width="600">
 
 ### HTML отчёт
-<img src="screenshots/4-html-report.png" width="600">
+<img src="screenshots/screenshots4-html-report.png" width="600">
+
+### Структура проекта
+<img src="screenshots/screenshots5-project-structure.jpg" width="600">
 
 ---
 
