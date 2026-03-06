@@ -63,6 +63,17 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 ```
 
+## 🐳 Запуск через Docker
+```bash
+# Сборка
+docker build -t ux-analyzer .
+
+# Запуск
+docker run -p 8501:8501 -e PROXIAPI_API_KEY=ваш_ключ ux-analyzer
+```
+
+Открой в браузере: **http://localhost:8501**
+
 ### 2. Настройка
 
 Создайте файл `.env`:
